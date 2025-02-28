@@ -56,7 +56,3 @@ A picture is worth a thousand words:
 ## 📜 License
 
 [MIT License](https://chatgpt.com/c/LICENSE)
-
-```json
-
-```
