@@ -55,4 +55,4 @@
 
 ## 📜 许可证
 
-[MIT License](https://chatgpt.com/c/LICENSE)
+[MIT License](LICENSE)
